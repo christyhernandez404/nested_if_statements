@@ -7,4 +7,4 @@ food_choice = input("Would you like vegetarian food? Answer Yes or No: ")
 if food_choice == 'Yes':
     action = print("We recommend Veggie Delight Caterers")
 else:
-    action = print("We recommend Gourmet Meals Caterer")
+    action = print("We recommend Gourmet Meals Caterers")
